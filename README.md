@@ -4,7 +4,7 @@ WashSlot is a modern Android application designed to streamline laundry slot boo
 
 Video Link - https://drive.google.com/file/d/12cTfV8Kth9bcm5sdYvBNwpGLWUIOaUwo/view?usp=sharing
 
-Website Link - https://github.com/mshezan/washslot
+Website Github Link - https://github.com/mshezan/washslot
 
 
 ## Tech Stack
