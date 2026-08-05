@@ -1,6 +1,6 @@
 # WashSlot - Laundry Management App
 
-WashSlot is a modern Android application designed to streamline laundry slot bookings for students in hostels. It allows users to book washing machine slots, track their request history, and report machine issues.
+WashSlot is a modern Android application made for the CampuSync Hackathon @ IIITDMK designed to streamline laundry slot bookings for students in hostels. It allows users to book washing machine slots, track their request history, and report machine issues.
 
 Video Link - https://drive.google.com/file/d/12cTfV8Kth9bcm5sdYvBNwpGLWUIOaUwo/view?usp=sharing
 
