@@ -2,6 +2,10 @@
 
 WashSlot is a modern Android application designed to streamline laundry slot bookings for students in hostels. It allows users to book washing machine slots, track their request history, and report machine issues.
 
+Video Link - https://drive.google.com/file/d/12cTfV8Kth9bcm5sdYvBNwpGLWUIOaUwo/view?usp=sharing
+Website Link - https://github.com/mshezan/washslot
+
+
 ## Tech Stack
 
 - **Language:** [Kotlin](https://kotlinlang.org/)
