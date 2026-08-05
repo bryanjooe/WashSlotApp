@@ -2,7 +2,7 @@
 
 WashSlot is a modern Android application designed to streamline laundry slot bookings for students in hostels. It allows users to book washing machine slots, track their request history, and report machine issues.
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - **Language:** [Kotlin](https://kotlinlang.org/)
 - **UI Framework:** [Jetpack Compose](https://developer.android.com/jetpack/compose) (Modern declarative UI)
@@ -17,7 +17,7 @@ WashSlot is a modern Android application designed to streamline laundry slot boo
 - **Image Loading:** [Coil 3](https://coil-kt.github.io/coil/)
 - **Serialization:** Kotlinx Serialization
 
-## ✨ Features
+## Features
 
 - **Persistent Login:** Stay logged in across app restarts.
 - **Intuitive Booking:** 
@@ -32,7 +32,7 @@ WashSlot is a modern Android application designed to streamline laundry slot boo
 - **Issue Reporting:** Submit machine problems directly to the system.
 - **Hostel-Specific Availability:** Machine counts and availability based on the user's hostel.
 
-## 🛠️ Database Setup (Supabase)
+## Database Setup (Supabase)
 
 To run this project, you need the following tables in your Supabase database:
 
@@ -79,5 +79,5 @@ CREATE TABLE reports (
 );
 ```
 
-## 🎨 Theme & UI
+## Theme & UI
 The app features a custom **Dark Theme** with a signature **Blue Gradient** for primary actions, providing a modern and clean aesthetic for night-time hostel use.
